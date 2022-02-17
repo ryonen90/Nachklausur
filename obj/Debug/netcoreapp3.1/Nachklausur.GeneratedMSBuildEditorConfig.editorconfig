@@ -1,3 +1,9 @@
 is_global = true
+build_property.ApplicationManifest = 
+build_property.StartupObject = 
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
 build_property.RootNamespace = Nachklausur
-build_property.ProjectDir = c:\Users\Ismail Fida\Downloads\GPB\C#\Nachklausur\Nachklausur\Nachklausur\
+build_property.ProjectDir = c:\Users\tmn\Downloads\gittest\Nachklausur\
